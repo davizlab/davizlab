@@ -2,13 +2,13 @@
 links:
   - title: Data analysis for the public sector
     url: "https://www.netlifycms.org/"
-    desc: <p>Every government entity collects and stores millions of data points to perform administrative and legislative duties, allocate resources, and make decisions.</p>
+    desc: Every government entity collects and stores millions of data points to perform administrative and legislative duties, allocate resources, and make decisions.
   - title: Data analysis for business decision making
     url: "https://www.11ty.dev/"
-    desc: <p>Involves the collection, processing, analysis and visualization of large sets of data generated in the company in its business management, using advanced data analysis tools and techniques. </p>
+    desc: Involves the collection, processing, analysis and visualization of large sets of data generated in the company in its business management, using advanced data analysis tools and techniques. 
   - title: Business Intelligence projects
     url: "https://github.com/alpinejs/alpine"
-    desc: <p> Using Microsoft Power BI as a vehicle to develop analytical reports that show important information for each area as well as their main Key Performance Indicators (KPIs). </p>
+    desc:  Using Microsoft Power BI as a vehicle to develop analytical reports that show important information for each area as well as their main Key Performance Indicators (KPIs). 
   - title: Personal or groupal training
     url: "https://tailwindcss.com/"
-    desc: <p> Discover the benefits of working with programming languages ​​following a scientific method to radically increase the quality of decision making. </p>
+    desc: Discover the benefits of working with programming languages ​​following a scientific method to radically increase the quality of decision making. 
