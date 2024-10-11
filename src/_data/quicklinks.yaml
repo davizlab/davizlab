@@ -2,7 +2,7 @@
 links:
   - title: Data analysis for the public sector
     url: "https://www.netlifycms.org/"
-    desc:Every government entity collects and stores millions of data points to perform administrative and legislative duties, allocate      resources, and make decisions
+    desc: Every government entity collects and stores millions of data points to perform administrative and legislative duties, allocate      resources, and make decisions
   - title: Data analysis for business decision making
     url: "https://www.11ty.dev/"
     desc: Involves the collection, processing, analysis and visualization of large sets of data generated in the company in its business     management, using advanced data analysis tools and techniques
