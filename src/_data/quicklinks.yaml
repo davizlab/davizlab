@@ -1,8 +1,6 @@
 ---
 links:
-  - title: Data Analytics in the Public Sector
-    url: "https://github.com/davizlab"
-    desc: Every government entity collects and stores millions of data points to perform administrative and legislative duties, allocate resources, and make decisions. Professionals in the public sector need the necessary skills to accurately interpret and inform administrators and policymakers about the meaning behind these data. 
+   
   - title: Business Intelligence Projects
     url: "https://github.com/davizlab"
     desc: Today, companies need information that is flexible, up-to-date and accessible at the right time. This principle is one of the foundations of Business Intelligence (BI), which focuses on leveraging technology to provide key business data that enables informed and strategic decisions.
